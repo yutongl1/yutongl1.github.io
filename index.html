@@ -286,7 +286,7 @@
 				    return d.data.name.length * CHAR_SPACE < perimeter;
 				};
 
-				const svg = d3.select('body').append('svg')
+				const svg = d3.select("#svgHere").append('svg')
 				    .style('width', width)
 				    .style('height', height)
 				    .attr('viewBox', `${-width / 2} ${-height / 2} ${width} ${height}`)

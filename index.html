@@ -240,8 +240,8 @@
 			<script src="//d3js.org/d3.v4.min.js"></script>
 			<script src="//colorbrewer2.org/export/colorbrewer.js"></script>
 			    <script>
-				const width = 960,
-				    height = 700,
+				const width = 800,
+				    height = 600,
 				    maxRadius = (Math.min(width, height) / 2) - 10;
 				const formatNumber = d3.format(',d');
 				const x = d3.scaleLinear()
@@ -249,7 +249,7 @@
 				    .clamp(true);
 				const y = d3.scaleSqrt()
 				    .range([maxRadius*.1, maxRadius]);
-				const color = d3.scaleOrdinal(d3.schemeCategory20c);
+				const color = d3.scaleOrdinal(colorbrewer.Set3[12]);
 				const partition = d3.partition();
 				const arc = d3.arc()
 				    .startAngle(d => Math.max(0, Math.min(2 * Math.PI, x(d.x0))))

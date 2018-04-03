@@ -11,8 +11,28 @@
 		<title>Endangered Animals</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<style> path {stroke: #fff;} </style>
+		<link rel="stylesheet" href="assets/css/main.css" />		
+		<style>
+
+		.slice {
+		    cursor: pointer;
+		}
+
+		.slice .main-arc {
+		    stroke: #fff;
+		    stroke-width: 1px;
+		}
+
+		.slice .hidden-arc {
+		    fill: none;
+		}
+
+		.slice text {
+		    pointer-events: none;
+		    dominant-baseline: middle;
+		    text-anchor: middle;
+		}
+		</style>		
 	</head>
 	<body class="landing">
 
@@ -237,7 +257,8 @@
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-			<script src="//d3js.org/d3.v4.min.js"></script>
+			<script src='https://d3js.org/d3.v4.min.js'></script>
+			<script src="http://colorbrewer2.org/export/colorbrewer.js"></script>
 			    <script>
 				const width = 960,
 				    height = 700,
@@ -252,7 +273,7 @@
 				const y = d3.scaleSqrt()
 				    .range([maxRadius*.1, maxRadius]);
 
-				const color = d3.scaleOrdinal(d3.schemeCategory20c);
+				const color = d3.scaleOrdinal(colorbrewer.RdBu[9]);
 
 				const partition = d3.partition();
 

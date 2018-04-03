@@ -1,1 +1,380 @@
-{"name": "ANIMALIA", "children": [{"name": "CHORDATA", "children": [{"name": "AMPHIBIA", "children": [{"name": "ANURA", "children": [{"name": "ALSODIDAE", "size": 5}, {"name": "ALSODIDAE", "size": 4}, {"name": "ALYTIDAE", "size": 1}, {"name": "AROMOBATIDAE", "size": 5}, {"name": "AROMOBATIDAE", "size": 11}, {"name": "AROMOBATIDAE", "size": 9}, {"name": "AROMOBATIDAE", "size": 1}, {"name": "ARTHROLEPTIDAE", "size": 11}, {"name": "ARTHROLEPTIDAE", "size": 5}, {"name": "ARTHROLEPTIDAE", "size": 6}, {"name": "ARTHROLEPTIDAE", "size": 9}, {"name": "ARTHROLEPTIDAE", "size": 5}, {"name": "BATRACHYLIDAE", "size": 2}, {"name": "BOMBINATORIDAE", "size": 1}, {"name": "BOMBINATORIDAE", "size": 1}, {"name": "BREVICIPITIDAE", "size": 1}, {"name": "BREVICIPITIDAE", "size": 8}, {"name": "BREVICIPITIDAE", "size": 6}, {"name": "BUFONIDAE", "size": 3}, {"name": "BUFONIDAE", "size": 2}, {"name": "BUFONIDAE", "size": 5}, {"name": "BUFONIDAE", "size": 4}, {"name": "BUFONIDAE", "size": 80}, {"name": "BUFONIDAE", "size": 1}, {"name": "BUFONIDAE", "size": 1}, {"name": "BUFONIDAE", "size": 1}, {"name": "BUFONIDAE", "size": 1}, {"name": "BUFONIDAE", "size": 4}, {"name": "BUFONIDAE", "size": 1}, {"name": "BUFONIDAE", "size": 13}, {"name": "BUFONIDAE", "size": 2}, {"name": "BUFONIDAE", "size": 1}, {"name": "BUFONIDAE", "size": 4}, {"name": "BUFONIDAE", "size": 3}, {"name": "BUFONIDAE", "size": 9}, {"name": "BUFONIDAE", "size": 1}, {"name": "BUFONIDAE", "size": 4}, {"name": "BUFONIDAE", "size": 1}, {"name": "BUFONIDAE", "size": 1}, {"name": "BUFONIDAE", "size": 4}, {"name": "BUFONIDAE", "size": 6}, {"name": "BUFONIDAE", "size": 2}, {"name": "BUFONIDAE", "size": 10}, {"name": "BUFONIDAE", "size": 5}, {"name": "BUFONIDAE", "size": 1}, {"name": "BUFONIDAE", "size": 6}, {"name": "BUFONIDAE", "size": 2}, {"name": "BUFONIDAE", "size": 2}, {"name": "CALYPTOCEPHALELLIDAE", "size": 3}, {"name": "CENTROLENIDAE", "size": 7}, {"name": "CENTROLENIDAE", "size": 2}, {"name": "CENTROLENIDAE", "size": 2}, {"name": "CENTROLENIDAE", "size": 3}, {"name": "CENTROLENIDAE", "size": 8}, {"name": "CENTROLENIDAE", "size": 1}, {"name": "CERATOBATRACHIDAE", "size": 1}, {"name": "CERATOBATRACHIDAE", "size": 11}, {"name": "CONRAUIDAE", "size": 2}, {"name": "CRAUGASTORIDAE", "size": 1}, {"name": "CRAUGASTORIDAE", "size": 2}, {"name": "CRAUGASTORIDAE", "size": 51}, {"name": "CRAUGASTORIDAE", "size": 1}, {"name": "CRAUGASTORIDAE", "size": 1}, {"name": "CRAUGASTORIDAE", "size": 3}, {"name": "CRAUGASTORIDAE", "size": 1}, {"name": "CRAUGASTORIDAE", "size": 1}, {"name": "CRAUGASTORIDAE", "size": 3}, {"name": "CRAUGASTORIDAE", "size": 9}, {"name": "CRAUGASTORIDAE", "size": 106}, {"name": "CRAUGASTORIDAE", "size": 7}, {"name": "CRAUGASTORIDAE", "size": 3}, {"name": "CRAUGASTORIDAE", "size": 1}, {"name": "CYCLORAMPHIDAE", "size": 1}, {"name": "CYCLORAMPHIDAE", "size": 1}, {"name": "CYCLORAMPHIDAE", "size": 1}, {"name": "CYCLORAMPHIDAE", "size": 1}, {"name": "DENDROBATIDAE", "size": 3}, {"name": "DENDROBATIDAE", "size": 3}, {"name": "DENDROBATIDAE", "size": 4}, {"name": "DENDROBATIDAE", "size": 1}, {"name": "DENDROBATIDAE", "size": 1}, {"name": "DENDROBATIDAE", "size": 9}, {"name": "DENDROBATIDAE", "size": 1}, {"name": "DENDROBATIDAE", "size": 4}, {"name": "DENDROBATIDAE", "size": 3}, {"name": "DENDROBATIDAE", "size": 1}, {"name": "DENDROBATIDAE", "size": 2}, {"name": "DICROGLOSSIDAE", "size": 4}, {"name": "DICROGLOSSIDAE", "size": 1}, {"name": "DICROGLOSSIDAE", "size": 4}, {"name": "DICROGLOSSIDAE", "size": 1}, {"name": "DICROGLOSSIDAE", "size": 3}, {"name": "DICROGLOSSIDAE", "size": 3}, {"name": "DICROGLOSSIDAE", "size": 2}, {"name": "ELEUTHERODACTYLIDAE", "size": 1}, {"name": "ELEUTHERODACTYLIDAE", "size": 120}, {"name": "HELEOPHRYNIDAE", "size": 2}, {"name": "HEMIPHRACTIDAE", "size": 2}, {"name": "HEMIPHRACTIDAE", "size": 1}, {"name": "HEMIPHRACTIDAE", "size": 16}, {"name": "HEMIPHRACTIDAE", "size": 1}, {"name": "HYLIDAE", "size": 1}, {"name": "HYLIDAE", "size": 1}, {"name": "HYLIDAE", "size": 1}, {"name": "HYLIDAE", "size": 3}, {"name": "HYLIDAE", "size": 3}, {"name": "HYLIDAE", "size": 2}, {"name": "HYLIDAE", "size": 6}, {"name": "HYLIDAE", "size": 7}, {"name": "HYLIDAE", "size": 3}, {"name": "HYLIDAE", "size": 1}, {"name": "HYLIDAE", "size": 9}, {"name": "HYLIDAE", "size": 1}, {"name": "HYLIDAE", "size": 8}, {"name": "HYLIDAE", "size": 13}, {"name": "HYLIDAE", "size": 4}, {"name": "HYLIDAE", "size": 3}, {"name": "HYLIDAE", "size": 1}, {"name": "HYLIDAE", "size": 37}, {"name": "HYLIDAE", "size": 9}, {"name": "HYLIDAE", "size": 6}, {"name": "HYLIDAE", "size": 1}, {"name": "HYPEROLIIDAE", "size": 4}, {"name": "HYPEROLIIDAE", "size": 1}, {"name": "HYPEROLIIDAE", "size": 1}, {"name": "HYPEROLIIDAE", "size": 1}, {"name": "HYPEROLIIDAE", "size": 17}, {"name": "HYPEROLIIDAE", "size": 1}, {"name": "HYPEROLIIDAE", "size": 1}, {"name": "LEIOPELMATIDAE", "size": 1}, {"name": "LEPTODACTYLIDAE", "size": 3}, {"name": "LEPTODACTYLIDAE", "size": 1}, {"name": "LEPTODACTYLIDAE", "size": 1}, {"name": "LIMNODYNASTIDAE", "size": 6}, {"name": "MANTELLIDAE", "size": 1}, {"name": "MANTELLIDAE", "size": 23}, {"name": "MANTELLIDAE", "size": 11}, {"name": "MANTELLIDAE", "size": 4}, {"name": "MANTELLIDAE", "size": 6}, {"name": "MANTELLIDAE", "size": 7}, {"name": "MANTELLIDAE", "size": 3}, {"name": "MANTELLIDAE", "size": 1}, {"name": "MEGOPHRYIDAE", "size": 1}, {"name": "MEGOPHRYIDAE", "size": 6}, {"name": "MEGOPHRYIDAE", "size": 8}, {"name": "MEGOPHRYIDAE", "size": 3}, {"name": "MEGOPHRYIDAE", "size": 6}, {"name": "MEGOPHRYIDAE", "size": 5}, {"name": "MICRIXALIDAE", "size": 2}, {"name": "MICROHYLIDAE", "size": 8}, {"name": "MICROHYLIDAE", "size": 1}, {"name": "MICROHYLIDAE", "size": 1}, {"name": "MICROHYLIDAE", "size": 1}, {"name": "MICROHYLIDAE", "size": 4}, {"name": "MICROHYLIDAE", "size": 12}, {"name": "MICROHYLIDAE", "size": 1}, {"name": "MICROHYLIDAE", "size": 2}, {"name": "MICROHYLIDAE", "size": 2}, {"name": "MICROHYLIDAE", "size": 1}, {"name": "MICROHYLIDAE", "size": 1}, {"name": "MICROHYLIDAE", "size": 4}, {"name": "MICROHYLIDAE", "size": 1}, {"name": "MICROHYLIDAE", "size": 1}, {"name": "MICROHYLIDAE", "size": 1}, {"name": "MICROHYLIDAE", "size": 3}, {"name": "MICROHYLIDAE", "size": 20}, {"name": "MICROHYLIDAE", "size": 1}, {"name": "MICROHYLIDAE", "size": 2}, {"name": "MYOBATRACHIDAE", "size": 1}, {"name": "MYOBATRACHIDAE", "size": 2}, {"name": "MYOBATRACHIDAE", "size": 3}, {"name": "MYOBATRACHIDAE", "size": 2}, {"name": "MYOBATRACHIDAE", "size": 5}, {"name": "NASIKABATRACHIDAE", "size": 1}, {"name": "NYCTIBATRACHIDAE", "size": 7}, {"name": "ODONTOPHRYNIDAE", "size": 1}, {"name": "PELOBATIDAE", "size": 1}, {"name": "PETROPEDETIDAE", "size": 3}, {"name": "PETROPEDETIDAE", "size": 2}, {"name": "PHRYNOBATRACHIDAE", "size": 9}, {"name": "PHYLLOMEDUSIDAE", "size": 2}, {"name": "PHYLLOMEDUSIDAE", "size": 2}, {"name": "PHYLLOMEDUSIDAE", "size": 1}, {"name": "PHYLLOMEDUSIDAE", "size": 1}, {"name": "PIPIDAE", "size": 1}, {"name": "PIPIDAE", "size": 5}, {"name": "PTYCHADENIDAE", "size": 2}, {"name": "PYXICEPHALIDAE", "size": 2}, {"name": "PYXICEPHALIDAE", "size": 1}, {"name": "PYXICEPHALIDAE", "size": 2}, {"name": "PYXICEPHALIDAE", "size": 1}, {"name": "PYXICEPHALIDAE", "size": 1}, {"name": "PYXICEPHALIDAE", "size": 1}, {"name": "PYXICEPHALIDAE", "size": 1}, {"name": "PYXICEPHALIDAE", "size": 1}, {"name": "RANIDAE", "size": 2}, {"name": "RANIDAE", "size": 4}, {"name": "RANIDAE", "size": 3}, {"name": "RANIDAE", "size": 1}, {"name": "RANIDAE", "size": 1}, {"name": "RANIDAE", "size": 10}, {"name": "RANIDAE", "size": 9}, {"name": "RANIDAE", "size": 4}, {"name": "RANIDAE", "size": 1}, {"name": "RANIDAE", "size": 7}, {"name": "RANIXALIDAE", "size": 5}, {"name": "RHACOPHORIDAE", "size": 1}, {"name": "RHACOPHORIDAE", "size": 2}, {"name": "RHACOPHORIDAE", "size": 2}, {"name": "RHACOPHORIDAE", "size": 10}, {"name": "RHACOPHORIDAE", "size": 1}, {"name": "RHACOPHORIDAE", "size": 56}, {"name": "RHACOPHORIDAE", "size": 16}, {"name": "RHACOPHORIDAE", "size": 10}, {"name": "RHACOPHORIDAE", "size": 3}, {"name": "RHACOPHORIDAE", "size": 4}, {"name": "SOOGLOSSIDAE", "size": 2}, {"name": "SOOGLOSSIDAE", "size": 2}, {"name": "TELMATOBIIDAE", "size": 33}]}, {"name": "CAUDATA", "children": [{"name": "AMBYSTOMATIDAE", "size": 12}, {"name": "CRYPTOBRANCHIDAE", "size": 1}, {"name": "HYNOBIIDAE", "size": 1}, {"name": "HYNOBIIDAE", "size": 1}, {"name": "HYNOBIIDAE", "size": 10}, {"name": "HYNOBIIDAE", "size": 1}, {"name": "HYNOBIIDAE", "size": 1}, {"name": "HYNOBIIDAE", "size": 1}, {"name": "PLETHODONTIDAE", "size": 2}, {"name": "PLETHODONTIDAE", "size": 1}, {"name": "PLETHODONTIDAE", "size": 32}, {"name": "PLETHODONTIDAE", "size": 1}, {"name": "PLETHODONTIDAE", "size": 10}, {"name": "PLETHODONTIDAE", "size": 4}, {"name": "PLETHODONTIDAE", "size": 5}, {"name": "PLETHODONTIDAE", "size": 2}, {"name": "PLETHODONTIDAE", "size": 2}, {"name": "PLETHODONTIDAE", "size": 3}, {"name": "PLETHODONTIDAE", "size": 2}, {"name": "PLETHODONTIDAE", "size": 5}, {"name": "PLETHODONTIDAE", "size": 1}, {"name": "PLETHODONTIDAE", "size": 11}, {"name": "PLETHODONTIDAE", "size": 1}, {"name": "PLETHODONTIDAE", "size": 1}, {"name": "PLETHODONTIDAE", "size": 3}, {"name": "PLETHODONTIDAE", "size": 33}, {"name": "PLETHODONTIDAE", "size": 1}, {"name": "PLETHODONTIDAE", "size": 23}, {"name": "PROTEIDAE", "size": 1}, {"name": "SALAMANDRIDAE", "size": 1}, {"name": "SALAMANDRIDAE", "size": 1}, {"name": "SALAMANDRIDAE", "size": 2}, {"name": "SALAMANDRIDAE", "size": 1}, {"name": "SALAMANDRIDAE", "size": 2}, {"name": "SALAMANDRIDAE", "size": 1}, {"name": "SALAMANDRIDAE", "size": 4}, {"name": "SALAMANDRIDAE", "size": 1}, {"name": "SALAMANDRIDAE", "size": 1}, {"name": "SALAMANDRIDAE", "size": 1}, {"name": "SALAMANDRIDAE", "size": 1}, {"name": "SALAMANDRIDAE", "size": 2}]}, {"name": "GYMNOPHIONA", "children": [{"name": "HERPELIDAE", "size": 3}, {"name": "INDOTYPHLIDAE", "size": 1}, {"name": "INDOTYPHLIDAE", "size": 1}, {"name": "SCOLECOMORPHIDAE", "size": 1}]}]}, {"name": "AVES", "children": [{"name": "ACCIPITRIFORMES", "children": [{"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 2}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 3}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 6}, {"name": "ACCIPITRIDAE", "size": 2}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 2}, {"name": "ACCIPITRIDAE", "size": 4}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 1}, {"name": "ACCIPITRIDAE", "size": 1}]}, {"name": "ANSERIFORMES", "children": [{"name": "ANATIDAE", "size": 2}, {"name": "ANATIDAE", "size": 7}, {"name": "ANATIDAE", "size": 1}, {"name": "ANATIDAE", "size": 1}, {"name": "ANATIDAE", "size": 2}, {"name": "ANATIDAE", "size": 1}, {"name": "ANATIDAE", "size": 1}, {"name": "ANATIDAE", "size": 1}, {"name": "ANATIDAE", "size": 1}, {"name": "ANATIDAE", "size": 3}, {"name": "ANATIDAE", "size": 2}, {"name": "ANATIDAE", "size": 1}, {"name": "ANATIDAE", "size": 1}]}, {"name": "BUCEROTIFORMES", "children": [{"name": "BUCEROTIDAE", "size": 1}, {"name": "BUCEROTIDAE", "size": 2}, {"name": "BUCEROTIDAE", "size": 1}, {"name": "BUCEROTIDAE", "size": 1}, {"name": "BUCEROTIDAE", "size": 1}, {"name": "UPUPIDAE", "size": 1}]}, {"name": "CAPRIMULGIFORMES", "children": [{"name": "AEGOTHELIDAE", "size": 1}, {"name": "APODIDAE", "size": 1}, {"name": "CAPRIMULGIDAE", "size": 1}, {"name": "CAPRIMULGIDAE", "size": 1}, {"name": "CAPRIMULGIDAE", "size": 1}, {"name": "CAPRIMULGIDAE", "size": 1}, {"name": "CAPRIMULGIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 4}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 2}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 4}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 2}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}, {"name": "TROCHILIDAE", "size": 1}]}, {"name": "CATHARTIFORMES", "children": [{"name": "CATHARTIDAE", "size": 1}]}, {"name": "CHARADRIIFORMES", "children": [{"name": "ALCIDAE", "size": 1}, {"name": "ALCIDAE", "size": 1}, {"name": "ALCIDAE", "size": 2}, {"name": "ALCIDAE", "size": 1}, {"name": "CHARADRIIDAE", "size": 1}, {"name": "CHARADRIIDAE", "size": 1}, {"name": "CHARADRIIDAE", "size": 3}, {"name": "GLAREOLIDAE", "size": 1}, {"name": "HAEMATOPODIDAE", "size": 3}, {"name": "LARIDAE", "size": 1}, {"name": "LARIDAE", "size": 1}, {"name": "LARIDAE", "size": 1}, {"name": "LARIDAE", "size": 1}, {"name": "LARIDAE", "size": 1}, {"name": "LARIDAE", "size": 1}, {"name": "PEDIONOMIDAE", "size": 1}, {"name": "RECURVIROSTRIDAE", "size": 1}, {"name": "ROSTRATULIDAE", "size": 1}, {"name": "SCOLOPACIDAE", "size": 2}, {"name": "SCOLOPACIDAE", "size": 2}, {"name": "SCOLOPACIDAE", "size": 4}, {"name": "SCOLOPACIDAE", "size": 4}, {"name": "SCOLOPACIDAE", "size": 1}, {"name": "SCOLOPACIDAE", "size": 1}, {"name": "TURNICIDAE", "size": 4}]}, {"name": "CICONIIFORMES", "children": [{"name": "CICONIIDAE", "size": 2}, {"name": "CICONIIDAE", "size": 1}, {"name": "CICONIIDAE", "size": 1}]}, {"name": "COLUMBIFORMES", "children": [{"name": "COLUMBIDAE", "size": 2}, {"name": "COLUMBIDAE", "size": 6}, {"name": "COLUMBIDAE", "size": 1}, {"name": "COLUMBIDAE", "size": 1}, {"name": "COLUMBIDAE", "size": 5}, {"name": "COLUMBIDAE", "size": 1}, {"name": "COLUMBIDAE", "size": 1}, {"name": "COLUMBIDAE", "size": 3}, {"name": "COLUMBIDAE", "size": 1}, {"name": "COLUMBIDAE", "size": 3}, {"name": "COLUMBIDAE", "size": 2}, {"name": "COLUMBIDAE", "size": 2}, {"name": "COLUMBIDAE", "size": 1}, {"name": "COLUMBIDAE", "size": 4}, {"name": "COLUMBIDAE", "size": 1}, {"name": "COLUMBIDAE", "size": 1}, {"name": "COLUMBIDAE", "size": 2}, {"name": "COLUMBIDAE", "size": 4}, {"name": "COLUMBIDAE", "size": 1}, {"name": "COLUMBIDAE", "size": 1}, {"name": "COLUMBIDAE", "size": 2}, {"name": "COLUMBIDAE", "size": 1}, {"name": "COLUMBIDAE", "size": 1}]}, {"name": "CORACIIFORMES", "children": [{"name": "ALCEDINIDAE", "size": 2}, {"name": "ALCEDINIDAE", "size": 1}, {"name": "ALCEDINIDAE", "size": 1}, {"name": "ALCEDINIDAE", "size": 1}, {"name": "ALCEDINIDAE", "size": 3}]}, {"name": "CUCULIFORMES", "children": [{"name": "CUCULIDAE", "size": 1}, {"name": "CUCULIDAE", "size": 1}, {"name": "CUCULIDAE", "size": 1}, {"name": "CUCULIDAE", "size": 1}, {"name": "CUCULIDAE", "size": 1}, {"name": "CUCULIDAE", "size": 1}]}, {"name": "EURYPYGIFORMES", "children": [{"name": "RHYNOCHETIDAE", "size": 1}]}, {"name": "FALCONIFORMES", "children": [{"name": "FALCONIDAE", "size": 1}, {"name": "FALCONIDAE", "size": 4}]}, {"name": "GALLIFORMES", "children": [{"name": "CRACIDAE", "size": 4}, {"name": "CRACIDAE", "size": 1}, {"name": "CRACIDAE", "size": 1}, {"name": "CRACIDAE", "size": 3}, {"name": "CRACIDAE", "size": 3}, {"name": "CRACIDAE", "size": 2}, {"name": "MEGAPODIIDAE", "size": 1}, {"name": "MEGAPODIIDAE", "size": 1}, {"name": "MEGAPODIIDAE", "size": 2}, {"name": "ODONTOPHORIDAE", "size": 1}, {"name": "PHASIANIDAE", "size": 1}, {"name": "PHASIANIDAE", "size": 1}, {"name": "PHASIANIDAE", "size": 1}, {"name": "PHASIANIDAE", "size": 1}, {"name": "PHASIANIDAE", "size": 1}, {"name": "PHASIANIDAE", "size": 1}, {"name": "PHASIANIDAE", "size": 1}, {"name": "PHASIANIDAE", "size": 2}, {"name": "PHASIANIDAE", "size": 3}, {"name": "PHASIANIDAE", "size": 1}]}, {"name": "GRUIFORMES", "children": [{"name": "GRUIDAE", "size": 1}, {"name": "GRUIDAE", "size": 2}, {"name": "GRUIDAE", "size": 1}, {"name": "HELIORNITHIDAE", "size": 1}, {"name": "PSOPHIIDAE", "size": 2}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 2}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 7}, {"name": "RALLIDAE", "size": 2}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 2}, {"name": "RALLIDAE", "size": 6}, {"name": "RALLIDAE", "size": 2}, {"name": "RALLIDAE", "size": 2}, {"name": "RALLIDAE", "size": 1}, {"name": "RALLIDAE", "size": 6}]}, {"name": "MUSOPHAGIFORMES", "children": [{"name": "MUSOPHAGIDAE", "size": 1}]}, {"name": "OTIDIFORMES", "children": [{"name": "OTIDIDAE", "size": 1}, {"name": "OTIDIDAE", "size": 1}, {"name": "OTIDIDAE", "size": 1}, {"name": "OTIDIDAE", "size": 1}, {"name": "OTIDIDAE", "size": 1}]}, {"name": "PASSERIFORMES", "children": [{"name": "ACANTHISITTIDAE", "size": 1}, {"name": "ACANTHISITTIDAE", "size": 2}, {"name": "ACANTHIZIDAE", "size": 1}, {"name": "ACROCEPHALIDAE", "size": 14}, {"name": "ACROCEPHALIDAE", "size": 1}, {"name": "ALAUDIDAE", "size": 1}, {"name": "ALAUDIDAE", "size": 1}, {"name": "ALAUDIDAE", "size": 2}, {"name": "ALAUDIDAE", "size": 1}, {"name": "ALAUDIDAE", "size": 2}, {"name": "ALAUDIDAE", "size": 1}, {"name": "ATRICHORNITHIDAE", "size": 2}, {"name": "CALLAEIDAE", "size": 1}, {"name": "CALLAEIDAE", "size": 1}, {"name": "CAMPEPHAGIDAE", "size": 2}, {"name": "CAMPEPHAGIDAE", "size": 1}, {"name": "CARDINALIDAE", "size": 1}, {"name": "CISTICOLIDAE", "size": 2}, {"name": "CISTICOLIDAE", "size": 2}, {"name": "CISTICOLIDAE", "size": 1}, {"name": "CISTICOLIDAE", "size": 1}, {"name": "CORVIDAE", "size": 1}, {"name": "CORVIDAE", "size": 4}, {"name": "CORVIDAE", "size": 1}, {"name": "CORVIDAE", "size": 1}, {"name": "CORVIDAE", "size": 1}, {"name": "COTINGIDAE", "size": 1}, {"name": "COTINGIDAE", "size": 1}, {"name": "COTINGIDAE", "size": 1}, {"name": "COTINGIDAE", "size": 1}, {"name": "COTINGIDAE", "size": 1}, {"name": "COTINGIDAE", "size": 1}, {"name": "DASYORNITHIDAE", "size": 2}, {"name": "DICAEIDAE", "size": 1}, {"name": "DICRURIDAE", "size": 2}, {"name": "EMBERIZIDAE", "size": 3}, {"name": "ESTRILDIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 4}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 2}, {"name": "FRINGILLIDAE", "size": 2}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 4}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 4}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 3}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 2}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FRINGILLIDAE", "size": 1}, {"name": "FURNARIIDAE", "size": 1}, {"name": "FURNARIIDAE", "size": 1}, {"name": "FURNARIIDAE", "size": 1}, {"name": "FURNARIIDAE", "size": 1}, {"name": "FURNARIIDAE", "size": 2}, {"name": "FURNARIIDAE", "size": 2}, {"name": "FURNARIIDAE", "size": 1}, {"name": "FURNARIIDAE", "size": 1}, {"name": "FURNARIIDAE", "size": 2}, {"name": "FURNARIIDAE", "size": 4}, {"name": "FURNARIIDAE", "size": 1}, {"name": "GRALLARIIDAE", "size": 5}, {"name": "GRALLARIIDAE", "size": 1}, {"name": "HIRUNDINIDAE", "size": 1}, {"name": "HIRUNDINIDAE", "size": 1}, {"name": "HIRUNDINIDAE", "size": 1}, {"name": "HYLIOTIDAE", "size": 1}, {"name": "HYLOCITREIDAE", "size": 1}, {"name": "ICTERIDAE", "size": 2}, {"name": "ICTERIDAE", "size": 1}, {"name": "ICTERIDAE", "size": 1}, {"name": "ICTERIDAE", "size": 1}, {"name": "ICTERIDAE", "size": 1}, {"name": "ICTERIDAE", "size": 1}, {"name": "ICTERIDAE", "size": 1}, {"name": "ICTERIDAE", "size": 1}, {"name": "LANIIDAE", "size": 1}, {"name": "LEIOTRICHIDAE", "size": 3}, {"name": "LEIOTRICHIDAE", "size": 1}, {"name": "LEIOTRICHIDAE", "size": 1}, {"name": "LEIOTRICHIDAE", "size": 1}, {"name": "LEIOTRICHIDAE", "size": 3}, {"name": "LOCUSTELLIDAE", "size": 1}, {"name": "LOCUSTELLIDAE", "size": 1}, {"name": "LOCUSTELLIDAE", "size": 1}, {"name": "MACROSPHENIDAE", "size": 1}, {"name": "MACROSPHENIDAE", "size": 1}, {"name": "MALACONOTIDAE", "size": 1}, {"name": "MALACONOTIDAE", "size": 2}, {"name": "MALACONOTIDAE", "size": 1}, {"name": "MALURIDAE", "size": 1}, {"name": "MELIPHAGIDAE", "size": 1}, {"name": "MELIPHAGIDAE", "size": 1}, {"name": "MELIPHAGIDAE", "size": 2}, {"name": "MELIPHAGIDAE", "size": 1}, {"name": "MIMIDAE", "size": 3}, {"name": "MIMIDAE", "size": 1}, {"name": "MIMIDAE", "size": 1}, {"name": "MOHOIDAE", "size": 1}, {"name": "MOHOIDAE", "size": 4}, {"name": "MOHOUIDAE", "size": 1}, {"name": "MONARCHIDAE", "size": 1}, {"name": "MONARCHIDAE", "size": 1}, {"name": "MONARCHIDAE", "size": 1}, {"name": "MONARCHIDAE", "size": 1}, {"name": "MONARCHIDAE", "size": 1}, {"name": "MONARCHIDAE", "size": 8}, {"name": "MONARCHIDAE", "size": 4}, {"name": "MONARCHIDAE", "size": 1}, {"name": "MOTACILLIDAE", "size": 1}, {"name": "MOTACILLIDAE", "size": 1}, {"name": "MOTACILLIDAE", "size": 1}, {"name": "MUSCICAPIDAE", "size": 1}, {"name": "MUSCICAPIDAE", "size": 1}, {"name": "MUSCICAPIDAE", "size": 2}, {"name": "MUSCICAPIDAE", "size": 1}, {"name": "MUSCICAPIDAE", "size": 1}, {"name": "MUSCICAPIDAE", "size": 1}, {"name": "MUSCICAPIDAE", "size": 1}, {"name": "MUSCICAPIDAE", "size": 1}, {"name": "MUSCICAPIDAE", "size": 2}, {"name": "MUSCICAPIDAE", "size": 1}, {"name": "MUSCICAPIDAE", "size": 1}, {"name": "MUSCICAPIDAE", "size": 3}, {"name": "MUSCICAPIDAE", "size": 1}, {"name": "NECTARINIIDAE", "size": 1}, {"name": "NECTARINIIDAE", "size": 1}, {"name": "NECTARINIIDAE", "size": 1}, {"name": "ORIOLIDAE", "size": 2}, {"name": "ORIOLIDAE", "size": 2}, {"name": "PACHYCEPHALIDAE", "size": 1}, {"name": "PARDALOTIDAE", "size": 1}, {"name": "PARIDAE", "size": 1}, {"name": "PARULIDAE", "size": 1}, {"name": "PARULIDAE", "size": 1}, {"name": "PARULIDAE", "size": 1}, {"name": "PARULIDAE", "size": 1}, {"name": "PARULIDAE", "size": 1}, {"name": "PARULIDAE", "size": 2}, {"name": "PARULIDAE", "size": 1}, {"name": "PASSERELLIDAE", "size": 1}, {"name": "PASSERELLIDAE", "size": 4}, {"name": "PASSERELLIDAE", "size": 1}, {"name": "PASSERELLIDAE", "size": 2}, {"name": "PASSERELLIDAE", "size": 1}, {"name": "PASSERELLIDAE", "size": 1}, {"name": "PASSERELLIDAE", "size": 1}, {"name": "PELLORNEIDAE", "size": 1}, {"name": "PELLORNEIDAE", "size": 1}, {"name": "PETROICIDAE", "size": 2}, {"name": "PIPRIDAE", "size": 1}, {"name": "PITTIDAE", "size": 2}, {"name": "PITTIDAE", "size": 1}, {"name": "PITTIDAE", "size": 1}, {"name": "PLATYSTEIRIDAE", "size": 1}, {"name": "PLOCEIDAE", "size": 2}, {"name": "PLOCEIDAE", "size": 2}, {"name": "PLOCEIDAE", "size": 4}, {"name": "PYCNONOTIDAE", "size": 1}, {"name": "PYCNONOTIDAE", "size": 2}, {"name": "PYCNONOTIDAE", "size": 1}, {"name": "PYCNONOTIDAE", "size": 1}, {"name": "RHINOCRYPTIDAE", "size": 1}, {"name": "RHINOCRYPTIDAE", "size": 1}, {"name": "RHINOCRYPTIDAE", "size": 6}, {"name": "SITTIDAE", "size": 4}, {"name": "STURNIDAE", "size": 3}, {"name": "STURNIDAE", "size": 6}, {"name": "STURNIDAE", "size": 1}, {"name": "STURNIDAE", "size": 2}, {"name": "STURNIDAE", "size": 1}, {"name": "STURNIDAE", "size": 1}, {"name": "STURNIDAE", "size": 1}, {"name": "THAMNOPHILIDAE", "size": 1}, {"name": "THAMNOPHILIDAE", "size": 1}, {"name": "THAMNOPHILIDAE", "size": 1}, {"name": "THAMNOPHILIDAE", "size": 4}, {"name": "THAMNOPHILIDAE", "size": 1}, {"name": "THAMNOPHILIDAE", "size": 1}, {"name": "THAMNOPHILIDAE", "size": 1}, {"name": "THAMNOPHILIDAE", "size": 1}, {"name": "THAMNOPHILIDAE", "size": 1}, {"name": "THAMNOPHILIDAE", "size": 1}, {"name": "THRAUPIDAE", "size": 1}, {"name": "THRAUPIDAE", "size": 1}, {"name": "THRAUPIDAE", "size": 1}, {"name": "THRAUPIDAE", "size": 2}, {"name": "THRAUPIDAE", "size": 1}, {"name": "THRAUPIDAE", "size": 2}, {"name": "THRAUPIDAE", "size": 1}, {"name": "THRAUPIDAE", "size": 1}, {"name": "THRAUPIDAE", "size": 1}, {"name": "THRAUPIDAE", "size": 1}, {"name": "THRAUPIDAE", "size": 1}, {"name": "THRAUPIDAE", "size": 2}, {"name": "THRAUPIDAE", "size": 1}, {"name": "THRAUPIDAE", "size": 3}, {"name": "THRAUPIDAE", "size": 1}, {"name": "TITYRIDAE", "size": 1}, {"name": "TITYRIDAE", "size": 1}, {"name": "TROGLODYTIDAE", "size": 1}, {"name": "TROGLODYTIDAE", "size": 1}, {"name": "TROGLODYTIDAE", "size": 1}, {"name": "TROGLODYTIDAE", "size": 2}, {"name": "TROGLODYTIDAE", "size": 1}, {"name": "TURDIDAE", "size": 1}, {"name": "TURDIDAE", "size": 1}, {"name": "TURDIDAE", "size": 4}, {"name": "TURDIDAE", "size": 4}, {"name": "TURDIDAE", "size": 1}, {"name": "TYRANNIDAE", "size": 1}, {"name": "TYRANNIDAE", "size": 1}, {"name": "TYRANNIDAE", "size": 1}, {"name": "TYRANNIDAE", "size": 1}, {"name": "TYRANNIDAE", "size": 1}, {"name": "TYRANNIDAE", "size": 3}, {"name": "TYRANNIDAE", "size": 1}, {"name": "TYRANNIDAE", "size": 1}, {"name": "TYRANNIDAE", "size": 1}, {"name": "TYRANNIDAE", "size": 1}, {"name": "VANGIDAE", "size": 1}, {"name": "VANGIDAE", "size": 1}, {"name": "VANGIDAE", "size": 1}, {"name": "VIREONIDAE", "size": 1}, {"name": "ZOSTEROPIDAE", "size": 1}, {"name": "ZOSTEROPIDAE", "size": 1}, {"name": "ZOSTEROPIDAE", "size": 1}, {"name": "ZOSTEROPIDAE", "size": 3}]}, {"name": "PELECANIFORMES", "children": [{"name": "ARDEIDAE", "size": 2}, {"name": "ARDEIDAE", "size": 1}, {"name": "ARDEIDAE", "size": 1}, {"name": "ARDEIDAE", "size": 2}, {"name": "ARDEIDAE", "size": 1}, {"name": "ARDEIDAE", "size": 1}, {"name": "ARDEIDAE", "size": 3}, {"name": "THRESKIORNITHIDAE", "size": 1}, {"name": "THRESKIORNITHIDAE", "size": 1}, {"name": "THRESKIORNITHIDAE", "size": 1}, {"name": "THRESKIORNITHIDAE", "size": 1}, {"name": "THRESKIORNITHIDAE", "size": 1}, {"name": "THRESKIORNITHIDAE", "size": 1}, {"name": "THRESKIORNITHIDAE", "size": 2}]}, {"name": "PICIFORMES", "children": [{"name": "BUCCONIDAE", "size": 1}, {"name": "LYBIIDAE", "size": 1}, {"name": "PICIDAE", "size": 2}, {"name": "PICIDAE", "size": 1}, {"name": "PICIDAE", "size": 2}, {"name": "PICIDAE", "size": 1}, {"name": "PICIDAE", "size": 1}, {"name": "PICIDAE", "size": 1}, {"name": "PICIDAE", "size": 2}, {"name": "RAMPHASTIDAE", "size": 1}, {"name": "RAMPHASTIDAE", "size": 1}, {"name": "RAMPHASTIDAE", "size": 1}]}, {"name": "PODICIPEDIFORMES", "children": [{"name": "PODICIPEDIDAE", "size": 3}, {"name": "PODICIPEDIDAE", "size": 1}, {"name": "PODICIPEDIDAE", "size": 1}, {"name": "PODICIPEDIDAE", "size": 1}]}, {"name": "PROCELLARIIFORMES", "children": [{"name": "DIOMEDEIDAE", "size": 4}, {"name": "DIOMEDEIDAE", "size": 1}, {"name": "DIOMEDEIDAE", "size": 1}, {"name": "DIOMEDEIDAE", "size": 3}, {"name": "HYDROBATIDAE", "size": 2}, {"name": "OCEANITIDAE", "size": 1}, {"name": "OCEANITIDAE", "size": 1}, {"name": "OCEANITIDAE", "size": 1}, {"name": "PROCELLARIIDAE", "size": 1}, {"name": "PROCELLARIIDAE", "size": 1}, {"name": "PROCELLARIIDAE", "size": 1}, {"name": "PROCELLARIIDAE", "size": 1}, {"name": "PROCELLARIIDAE", "size": 1}, {"name": "PROCELLARIIDAE", "size": 3}, {"name": "PROCELLARIIDAE", "size": 12}, {"name": "PROCELLARIIDAE", "size": 7}]}, {"name": "PSITTACIFORMES", "children": [{"name": "CACATUIDAE", "size": 3}, {"name": "CACATUIDAE", "size": 2}, {"name": "PSITTACIDAE", "size": 11}, {"name": "PSITTACIDAE", "size": 2}, {"name": "PSITTACIDAE", "size": 4}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 3}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 3}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 2}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 2}, {"name": "PSITTACIDAE", "size": 2}, {"name": "PSITTACIDAE", "size": 1}, {"name": "PSITTACIDAE", "size": 3}, {"name": "PSITTACIDAE", "size": 2}, {"name": "PSITTACIDAE", "size": 8}, {"name": "PSITTACIDAE", "size": 2}, {"name": "PSITTACIDAE", "size": 2}, {"name": "STRIGOPIDAE", "size": 3}, {"name": "STRIGOPIDAE", "size": 1}]}, {"name": "PTEROCLIFORMES", "children": [{"name": "PTEROCLIDAE", "size": 1}, {"name": "PTEROCLIDAE", "size": 1}]}, {"name": "SPHENISCIFORMES", "children": [{"name": "SPHENISCIDAE", "size": 2}, {"name": "SPHENISCIDAE", "size": 1}, {"name": "SPHENISCIDAE", "size": 2}]}, {"name": "STRIGIFORMES", "children": [{"name": "STRIGIDAE", "size": 1}, {"name": "STRIGIDAE", "size": 1}, {"name": "STRIGIDAE", "size": 1}, {"name": "STRIGIDAE", "size": 1}, {"name": "STRIGIDAE", "size": 1}, {"name": "STRIGIDAE", "size": 3}, {"name": "STRIGIDAE", "size": 4}, {"name": "STRIGIDAE", "size": 10}, {"name": "STRIGIDAE", "size": 1}, {"name": "STRIGIDAE", "size": 1}, {"name": "TYTONIDAE", "size": 1}]}, {"name": "STRUTHIONIFORMES", "children": [{"name": "CASUARIIDAE", "size": 2}]}, {"name": "SULIFORMES", "children": [{"name": "FREGATIDAE", "size": 1}, {"name": "PHALACROCORACIDAE", "size": 5}, {"name": "SULIDAE", "size": 1}, {"name": "SULIDAE", "size": 1}]}]}, {"name": "MAMMALIA", "children": [{"name": "AFROSORICIDA", "children": [{"name": "CHRYSOCHLORIDAE", "size": 1}, {"name": "CHRYSOCHLORIDAE", "size": 1}, {"name": "CHRYSOCHLORIDAE", "size": 2}, {"name": "CHRYSOCHLORIDAE", "size": 2}, {"name": "TENRECIDAE", "size": 2}]}, {"name": "CARNIVORA", "children": [{"name": "AILURIDAE", "size": 1}, {"name": "CANIDAE", "size": 2}, {"name": "CANIDAE", "size": 1}, {"name": "CANIDAE", "size": 2}, {"name": "CANIDAE", "size": 1}, {"name": "CANIDAE", "size": 2}, {"name": "EUPLERIDAE", "size": 1}, {"name": "EUPLERIDAE", "size": 1}, {"name": "EUPLERIDAE", "size": 1}, {"name": "EUPLERIDAE", "size": 1}, {"name": "FELIDAE", "size": 1}, {"name": "FELIDAE", "size": 1}, {"name": "FELIDAE", "size": 1}, {"name": "FELIDAE", "size": 1}, {"name": "FELIDAE", "size": 2}, {"name": "FELIDAE", "size": 2}, {"name": "FELIDAE", "size": 1}, {"name": "MUSTELIDAE", "size": 1}, {"name": "MUSTELIDAE", "size": 2}, {"name": "MUSTELIDAE", "size": 1}, {"name": "MUSTELIDAE", "size": 1}, {"name": "MUSTELIDAE", "size": 4}, {"name": "MUSTELIDAE", "size": 1}, {"name": "MUSTELIDAE", "size": 1}, {"name": "OTARIIDAE", "size": 1}, {"name": "OTARIIDAE", "size": 1}, {"name": "OTARIIDAE", "size": 1}, {"name": "OTARIIDAE", "size": 2}, {"name": "PHOCIDAE", "size": 3}, {"name": "PHOCIDAE", "size": 2}, {"name": "PHOCIDAE", "size": 1}, {"name": "PROCYONIDAE", "size": 1}, {"name": "PROCYONIDAE", "size": 1}, {"name": "VIVERRIDAE", "size": 1}, {"name": "VIVERRIDAE", "size": 1}, {"name": "VIVERRIDAE", "size": 2}]}, {"name": "CETARTIODACTYLA", "children": [{"name": "BALAENIDAE", "size": 3}, {"name": "BALAENOPTERIDAE", "size": 5}, {"name": "BOVIDAE", "size": 1}, {"name": "BOVIDAE", "size": 1}, {"name": "BOVIDAE", "size": 1}, {"name": "BOVIDAE", "size": 4}, {"name": "BOVIDAE", "size": 4}, {"name": "BOVIDAE", "size": 2}, {"name": "BOVIDAE", "size": 2}, {"name": "BOVIDAE", "size": 1}, {"name": "BOVIDAE", "size": 8}, {"name": "BOVIDAE", "size": 1}, {"name": "BOVIDAE", "size": 1}, {"name": "BOVIDAE", "size": 2}, {"name": "BOVIDAE", "size": 1}, {"name": "BOVIDAE", "size": 2}, {"name": "BOVIDAE", "size": 1}, {"name": "BOVIDAE", "size": 1}, {"name": "BOVIDAE", "size": 1}, {"name": "BOVIDAE", "size": 1}, {"name": "BOVIDAE", "size": 2}, {"name": "BOVIDAE", "size": 1}, {"name": "CAMELIDAE", "size": 1}, {"name": "CERVIDAE", "size": 3}, {"name": "CERVIDAE", "size": 1}, {"name": "CERVIDAE", "size": 1}, {"name": "CERVIDAE", "size": 1}, {"name": "CERVIDAE", "size": 1}, {"name": "CERVIDAE", "size": 2}, {"name": "CERVIDAE", "size": 1}, {"name": "DELPHINIDAE", "size": 1}, {"name": "DELPHINIDAE", "size": 1}, {"name": "DELPHINIDAE", "size": 1}, {"name": "DELPHINIDAE", "size": 2}, {"name": "GIRAFFIDAE", "size": 1}, {"name": "HIPPOPOTAMIDAE", "size": 1}, {"name": "HIPPOPOTAMIDAE", "size": 2}, {"name": "LIPOTIDAE", "size": 1}, {"name": "MOSCHIDAE", "size": 6}, {"name": "PHOCOENIDAE", "size": 1}, {"name": "PHOCOENIDAE", "size": 1}, {"name": "PHYSETERIDAE", "size": 1}, {"name": "PLATANISTIDAE", "size": 1}, {"name": "SUIDAE", "size": 1}, {"name": "SUIDAE", "size": 1}, {"name": "SUIDAE", "size": 3}, {"name": "TAYASSUIDAE", "size": 1}, {"name": "TRAGULIDAE", "size": 1}]}, {"name": "CHIROPTERA", "children": [{"name": "EMBALLONURIDAE", "size": 1}, {"name": "EMBALLONURIDAE", "size": 1}, {"name": "EMBALLONURIDAE", "size": 1}, {"name": "HIPPOSIDERIDAE", "size": 3}, {"name": "MEGADERMATIDAE", "size": 1}, {"name": "MINIOPTERIDAE", "size": 2}, {"name": "MOLOSSIDAE", "size": 2}, {"name": "MOLOSSIDAE", "size": 1}, {"name": "MOLOSSIDAE", "size": 1}, {"name": "MOLOSSIDAE", "size": 1}, {"name": "MORMOOPIDAE", "size": 1}, {"name": "MYSTACINIDAE", "size": 1}, {"name": "NATALIDAE", "size": 1}, {"name": "PHYLLOSTOMIDAE", "size": 1}, {"name": "PHYLLOSTOMIDAE", "size": 1}, {"name": "PHYLLOSTOMIDAE", "size": 2}, {"name": "PHYLLOSTOMIDAE", "size": 1}, {"name": "PHYLLOSTOMIDAE", "size": 1}, {"name": "PHYLLOSTOMIDAE", "size": 1}, {"name": "PTEROPODIDAE", "size": 2}, {"name": "PTEROPODIDAE", "size": 1}, {"name": "PTEROPODIDAE", "size": 1}, {"name": "PTEROPODIDAE", "size": 1}, {"name": "PTEROPODIDAE", "size": 1}, {"name": "PTEROPODIDAE", "size": 1}, {"name": "PTEROPODIDAE", "size": 1}, {"name": "PTEROPODIDAE", "size": 1}, {"name": "PTEROPODIDAE", "size": 4}, {"name": "PTEROPODIDAE", "size": 14}, {"name": "RHINOLOPHIDAE", "size": 7}, {"name": "RHINOPOMATIDAE", "size": 1}, {"name": "VESPERTILIONIDAE", "size": 1}, {"name": "VESPERTILIONIDAE", "size": 2}, {"name": "VESPERTILIONIDAE", "size": 1}, {"name": "VESPERTILIONIDAE", "size": 3}, {"name": "VESPERTILIONIDAE", "size": 7}, {"name": "VESPERTILIONIDAE", "size": 2}, {"name": "VESPERTILIONIDAE", "size": 2}, {"name": "VESPERTILIONIDAE", "size": 1}, {"name": "VESPERTILIONIDAE", "size": 2}, {"name": "VESPERTILIONIDAE", "size": 1}]}, {"name": "DASYUROMORPHIA", "children": [{"name": "DASYURIDAE", "size": 2}, {"name": "DASYURIDAE", "size": 1}, {"name": "DASYURIDAE", "size": 1}, {"name": "MYRMECOBIIDAE", "size": 1}, {"name": "THYLACINIDAE", "size": 1}]}, {"name": "DIDELPHIMORPHIA", "children": [{"name": "DIDELPHIDAE", "size": 1}, {"name": "DIDELPHIDAE", "size": 1}, {"name": "DIDELPHIDAE", "size": 1}]}, {"name": "DIPROTODONTIA", "children": [{"name": "BURRAMYIDAE", "size": 1}, {"name": "MACROPODIDAE", "size": 7}, {"name": "MACROPODIDAE", "size": 1}, {"name": "MACROPODIDAE", "size": 2}, {"name": "MACROPODIDAE", "size": 1}, {"name": "MACROPODIDAE", "size": 1}, {"name": "MACROPODIDAE", "size": 2}, {"name": "MACROPODIDAE", "size": 2}, {"name": "PETAURIDAE", "size": 1}, {"name": "PETAURIDAE", "size": 1}, {"name": "PETAURIDAE", "size": 2}, {"name": "PHALANGERIDAE", "size": 1}, {"name": "PHALANGERIDAE", "size": 3}, {"name": "PHALANGERIDAE", "size": 2}, {"name": "POTOROIDAE", "size": 4}, {"name": "POTOROIDAE", "size": 1}, {"name": "POTOROIDAE", "size": 2}, {"name": "PSEUDOCHEIRIDAE", "size": 1}, {"name": "VOMBATIDAE", "size": 1}]}, {"name": "EULIPOTYPHLA", "children": [{"name": "ERINACEIDAE", "size": 1}, {"name": "ERINACEIDAE", "size": 1}, {"name": "NESOPHONTIDAE", "size": 6}, {"name": "SOLENODONTIDAE", "size": 1}, {"name": "SOLENODONTIDAE", "size": 2}, {"name": "SORICIDAE", "size": 1}, {"name": "SORICIDAE", "size": 1}, {"name": "SORICIDAE", "size": 21}, {"name": "SORICIDAE", "size": 4}, {"name": "SORICIDAE", "size": 1}, {"name": "SORICIDAE", "size": 6}, {"name": "SORICIDAE", "size": 1}, {"name": "SORICIDAE", "size": 3}, {"name": "SORICIDAE", "size": 5}, {"name": "SORICIDAE", "size": 2}, {"name": "TALPIDAE", "size": 1}, {"name": "TALPIDAE", "size": 1}]}, {"name": "LAGOMORPHA", "children": [{"name": "LEPORIDAE", "size": 1}, {"name": "LEPORIDAE", "size": 1}, {"name": "LEPORIDAE", "size": 2}, {"name": "LEPORIDAE", "size": 1}, {"name": "LEPORIDAE", "size": 1}, {"name": "LEPORIDAE", "size": 5}, {"name": "OCHOTONIDAE", "size": 4}, {"name": "PROLAGIDAE", "size": 1}]}, {"name": "MACROSCELIDEA", "children": [{"name": "MACROSCELIDIDAE", "size": 1}]}, {"name": "MONOTREMATA", "children": [{"name": "TACHYGLOSSIDAE", "size": 2}]}, {"name": "PERAMELEMORPHIA", "children": [{"name": "CHAEROPODIDAE", "size": 1}, {"name": "PERAMELIDAE", "size": 1}, {"name": "PERAMELIDAE", "size": 1}, {"name": "PERAMELIDAE", "size": 1}, {"name": "PERAMELIDAE", "size": 1}, {"name": "THYLACOMYIDAE", "size": 1}]}, {"name": "PERISSODACTYLA", "children": [{"name": "EQUIDAE", "size": 5}, {"name": "RHINOCEROTIDAE", "size": 1}, {"name": "RHINOCEROTIDAE", "size": 1}, {"name": "RHINOCEROTIDAE", "size": 1}, {"name": "TAPIRIDAE", "size": 3}]}, {"name": "PHOLIDOTA", "children": [{"name": "MANIDAE", "size": 4}]}, {"name": "PILOSA", "children": [{"name": "BRADYPODIDAE", "size": 1}]}, {"name": "PRIMATES", "children": [{"name": "ATELIDAE", "size": 2}, {"name": "ATELIDAE", "size": 6}, {"name": "ATELIDAE", "size": 2}, {"name": "ATELIDAE", "size": 2}, {"name": "ATELIDAE", "size": 1}, {"name": "CALLITRICHIDAE", "size": 1}, {"name": "CALLITRICHIDAE", "size": 4}, {"name": "CALLITRICHIDAE", "size": 3}, {"name": "CEBIDAE", "size": 4}, {"name": "CEBIDAE", "size": 3}, {"name": "CERCOPITHECIDAE", "size": 1}, {"name": "CERCOPITHECIDAE", "size": 3}, {"name": "CERCOPITHECIDAE", "size": 2}, {"name": "CERCOPITHECIDAE", "size": 7}, {"name": "CERCOPITHECIDAE", "size": 1}, {"name": "CERCOPITHECIDAE", "size": 1}, {"name": "CERCOPITHECIDAE", "size": 11}, {"name": "CERCOPITHECIDAE", "size": 4}, {"name": "CERCOPITHECIDAE", "size": 3}, {"name": "CERCOPITHECIDAE", "size": 5}, {"name": "CERCOPITHECIDAE", "size": 1}, {"name": "CERCOPITHECIDAE", "size": 1}, {"name": "CERCOPITHECIDAE", "size": 1}, {"name": "CERCOPITHECIDAE", "size": 9}, {"name": "CHEIROGALEIDAE", "size": 1}, {"name": "CHEIROGALEIDAE", "size": 14}, {"name": "CHEIROGALEIDAE", "size": 2}, {"name": "CHEIROGALEIDAE", "size": 3}, {"name": "DAUBENTONIIDAE", "size": 1}, {"name": "GALAGIDAE", "size": 1}, {"name": "HOMINIDAE", "size": 2}, {"name": "HOMINIDAE", "size": 2}, {"name": "HOMINIDAE", "size": 3}, {"name": "HYLOBATIDAE", "size": 1}, {"name": "HYLOBATIDAE", "size": 9}, {"name": "HYLOBATIDAE", "size": 6}, {"name": "HYLOBATIDAE", "size": 1}, {"name": "INDRIIDAE", "size": 6}, {"name": "INDRIIDAE", "size": 1}, {"name": "INDRIIDAE", "size": 9}, {"name": "LEMURIDAE", "size": 7}, {"name": "LEMURIDAE", "size": 2}, {"name": "LEMURIDAE", "size": 1}, {"name": "LEMURIDAE", "size": 1}, {"name": "LEMURIDAE", "size": 2}, {"name": "LEPILEMURIDAE", "size": 20}, {"name": "LORISIDAE", "size": 1}, {"name": "LORISIDAE", "size": 1}, {"name": "PALAEOPROPITHECIDAE", "size": 1}, {"name": "PITHECIIDAE", "size": 6}, {"name": "PITHECIIDAE", "size": 3}, {"name": "PITHECIIDAE", "size": 1}, {"name": "TARSIIDAE", "size": 3}]}, {"name": "PROBOSCIDEA", "children": [{"name": "ELEPHANTIDAE", "size": 1}]}, {"name": "RODENTIA", "children": [{"name": "ABROCOMIDAE", "size": 1}, {"name": "CAPROMYIDAE", "size": 2}, {"name": "CAPROMYIDAE", "size": 1}, {"name": "CAPROMYIDAE", "size": 2}, {"name": "CAPROMYIDAE", "size": 4}, {"name": "CAPROMYIDAE", "size": 2}, {"name": "CAVIIDAE", "size": 1}, {"name": "CHINCHILLIDAE", "size": 2}, {"name": "CHINCHILLIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 6}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 3}, {"name": "CRICETIDAE", "size": 2}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 3}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 2}, {"name": "CRICETIDAE", "size": 2}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 3}, {"name": "CRICETIDAE", "size": 2}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 17}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 3}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 2}, {"name": "CRICETIDAE", "size": 2}, {"name": "CRICETIDAE", "size": 1}, {"name": "CRICETIDAE", "size": 1}, {"name": "CTENOMYIDAE", "size": 9}, {"name": "DASYPROCTIDAE", "size": 2}, {"name": "DIPODIDAE", "size": 2}, {"name": "ECHIMYIDAE", "size": 2}, {"name": "ECHIMYIDAE", "size": 1}, {"name": "ECHIMYIDAE", "size": 1}, {"name": "ECHIMYIDAE", "size": 1}, {"name": "ECHIMYIDAE", "size": 5}, {"name": "ECHIMYIDAE", "size": 1}, {"name": "ECHIMYIDAE", "size": 2}, {"name": "GEOMYIDAE", "size": 1}, {"name": "GEOMYIDAE", "size": 1}, {"name": "GLIRIDAE", "size": 1}, {"name": "HETEROMYIDAE", "size": 3}, {"name": "HETEROMYIDAE", "size": 3}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 2}, {"name": "MURIDAE", "size": 2}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 2}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 2}, {"name": "MURIDAE", "size": 2}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 2}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 7}, {"name": "MURIDAE", "size": 2}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 2}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 6}, {"name": "MURIDAE", "size": 2}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 2}, {"name": "MURIDAE", "size": 3}, {"name": "MURIDAE", "size": 8}, {"name": "MURIDAE", "size": 3}, {"name": "MURIDAE", "size": 1}, {"name": "MURIDAE", "size": 3}, {"name": "MURIDAE", "size": 5}, {"name": "MURIDAE", "size": 2}, {"name": "NESOMYIDAE", "size": 1}, {"name": "NESOMYIDAE", "size": 2}, {"name": "NESOMYIDAE", "size": 1}, {"name": "NESOMYIDAE", "size": 1}, {"name": "NESOMYIDAE", "size": 1}, {"name": "NESOMYIDAE", "size": 1}, {"name": "NESOMYIDAE", "size": 1}, {"name": "OCTODONTIDAE", "size": 1}, {"name": "OCTODONTIDAE", "size": 2}, {"name": "SCIURIDAE", "size": 1}, {"name": "SCIURIDAE", "size": 1}, {"name": "SCIURIDAE", "size": 2}, {"name": "SCIURIDAE", "size": 1}, {"name": "SCIURIDAE", "size": 1}, {"name": "SCIURIDAE", "size": 1}, {"name": "SCIURIDAE", "size": 2}, {"name": "SCIURIDAE", "size": 1}, {"name": "SCIURIDAE", "size": 1}, {"name": "SCIURIDAE", "size": 1}, {"name": "SCIURIDAE", "size": 1}, {"name": "SCIURIDAE", "size": 1}, {"name": "SCIURIDAE", "size": 1}, {"name": "SPALACIDAE", "size": 2}, {"name": "SPALACIDAE", "size": 1}]}, {"name": "SCANDENTIA", "children": [{"name": "TUPAIIDAE", "size": 2}]}, {"name": "SIRENIA", "children": [{"name": "DUGONGIDAE", "size": 1}]}]}]}]}
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+    {
+     "name": "cluster",
+     "children": [
+      {"name": "AgglomerativeCluster", "size": 3938},
+      {"name": "CommunityStructure", "size": 3812},
+      {"name": "HierarchicalCluster", "size": 6714},
+      {"name": "MergeEdge", "size": 743}
+     ]
+    },
+    {
+     "name": "graph",
+     "children": [
+      {"name": "BetweennessCentrality", "size": 3534},
+      {"name": "LinkDistance", "size": 5731},
+      {"name": "MaxFlowMinCut", "size": 7840},
+      {"name": "ShortestPaths", "size": 5914},
+      {"name": "SpanningTree", "size": 3416}
+     ]
+    },
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "AspectRatioBanker", "size": 7074}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "animate",
+   "children": [
+    {"name": "Easing", "size": 17010},
+    {"name": "FunctionSequence", "size": 5842},
+    {
+     "name": "interpolate",
+     "children": [
+      {"name": "ArrayInterpolator", "size": 1983},
+      {"name": "ColorInterpolator", "size": 2047},
+      {"name": "DateInterpolator", "size": 1375},
+      {"name": "Interpolator", "size": 8746},
+      {"name": "MatrixInterpolator", "size": 2202},
+      {"name": "NumberInterpolator", "size": 1382},
+      {"name": "ObjectInterpolator", "size": 1629},
+      {"name": "PointInterpolator", "size": 1675},
+      {"name": "RectangleInterpolator", "size": 2042}
+     ]
+    },
+    {"name": "ISchedulable", "size": 1041},
+    {"name": "Parallel", "size": 5176},
+    {"name": "Pause", "size": 449},
+    {"name": "Scheduler", "size": 5593},
+    {"name": "Sequence", "size": 5534},
+    {"name": "Transition", "size": 9201},
+    {"name": "Transitioner", "size": 19975},
+    {"name": "TransitionEvent", "size": 1116},
+    {"name": "Tween", "size": 6006}
+   ]
+  },
+  {
+   "name": "data",
+   "children": [
+    {
+     "name": "converters",
+     "children": [
+      {"name": "Converters", "size": 721},
+      {"name": "DelimitedTextConverter", "size": 4294},
+      {"name": "GraphMLConverter", "size": 9800},
+      {"name": "IDataConverter", "size": 1314},
+      {"name": "JSONConverter", "size": 2220}
+     ]
+    },
+    {"name": "DataField", "size": 1759},
+    {"name": "DataSchema", "size": 2165},
+    {"name": "DataSet", "size": 586},
+    {"name": "DataSource", "size": 3331},
+    {"name": "DataTable", "size": 772},
+    {"name": "DataUtil", "size": 3322}
+   ]
+  },
+  {
+   "name": "display",
+   "children": [
+    {"name": "DirtySprite", "size": 8833},
+    {"name": "LineSprite", "size": 1732},
+    {"name": "RectSprite", "size": 3623},
+    {"name": "TextSprite", "size": 10066}
+   ]
+  },
+  {
+   "name": "flex",
+   "children": [
+    {"name": "FlareVis", "size": 4116}
+   ]
+  },
+  {
+   "name": "physics",
+   "children": [
+    {"name": "DragForce", "size": 1082},
+    {"name": "GravityForce", "size": 1336},
+    {"name": "IForce", "size": 319},
+    {"name": "NBodyForce", "size": 10498},
+    {"name": "Particle", "size": 2822},
+    {"name": "Simulation", "size": 9983},
+    {"name": "Spring", "size": 2213},
+    {"name": "SpringForce", "size": 1681}
+   ]
+  },
+  {
+   "name": "query",
+   "children": [
+    {"name": "AggregateExpression", "size": 1616},
+    {"name": "And", "size": 1027},
+    {"name": "Arithmetic", "size": 3891},
+    {"name": "Average", "size": 891},
+    {"name": "BinaryExpression", "size": 2893},
+    {"name": "Comparison", "size": 5103},
+    {"name": "CompositeExpression", "size": 3677},
+    {"name": "Count", "size": 781},
+    {"name": "DateUtil", "size": 4141},
+    {"name": "Distinct", "size": 933},
+    {"name": "Expression", "size": 5130},
+    {"name": "ExpressionIterator", "size": 3617},
+    {"name": "Fn", "size": 3240},
+    {"name": "If", "size": 2732},
+    {"name": "IsA", "size": 2039},
+    {"name": "Literal", "size": 1214},
+    {"name": "Match", "size": 3748},
+    {"name": "Maximum", "size": 843},
+    {
+     "name": "methods",
+     "children": [
+      {"name": "add", "size": 593},
+      {"name": "and", "size": 330},
+      {"name": "average", "size": 287},
+      {"name": "count", "size": 277},
+      {"name": "distinct", "size": 292},
+      {"name": "div", "size": 595},
+      {"name": "eq", "size": 594},
+      {"name": "fn", "size": 460},
+      {"name": "gt", "size": 603},
+      {"name": "gte", "size": 625},
+      {"name": "iff", "size": 748},
+      {"name": "isa", "size": 461},
+      {"name": "lt", "size": 597},
+      {"name": "lte", "size": 619},
+      {"name": "max", "size": 283},
+      {"name": "min", "size": 283},
+      {"name": "mod", "size": 591},
+      {"name": "mul", "size": 603},
+      {"name": "neq", "size": 599},
+      {"name": "not", "size": 386},
+      {"name": "or", "size": 323},
+      {"name": "orderby", "size": 307},
+      {"name": "range", "size": 772},
+      {"name": "select", "size": 296},
+      {"name": "stddev", "size": 363},
+      {"name": "sub", "size": 600},
+      {"name": "sum", "size": 280},
+      {"name": "update", "size": 307},
+      {"name": "variance", "size": 335},
+      {"name": "where", "size": 299},
+      {"name": "xor", "size": 354},
+      {"name": "_", "size": 264}
+     ]
+    },
+    {"name": "Minimum", "size": 843},
+    {"name": "Not", "size": 1554},
+    {"name": "Or", "size": 970},
+    {"name": "Query", "size": 13896},
+    {"name": "Range", "size": 1594},
+    {"name": "StringUtil", "size": 4130},
+    {"name": "Sum", "size": 791},
+    {"name": "Variable", "size": 1124},
+    {"name": "Variance", "size": 1876},
+    {"name": "Xor", "size": 1101}
+   ]
+  },
+  {
+   "name": "scale",
+   "children": [
+    {"name": "IScaleMap", "size": 2105},
+    {"name": "LinearScale", "size": 1316},
+    {"name": "LogScale", "size": 3151},
+    {"name": "OrdinalScale", "size": 3770},
+    {"name": "QuantileScale", "size": 2435},
+    {"name": "QuantitativeScale", "size": 4839},
+    {"name": "RootScale", "size": 1756},
+    {"name": "Scale", "size": 4268},
+    {"name": "ScaleType", "size": 1821},
+    {"name": "TimeScale", "size": 5833}
+   ]
+  },
+  {
+   "name": "util",
+   "children": [
+    {"name": "Arrays", "size": 8258},
+    {"name": "Colors", "size": 10001},
+    {"name": "Dates", "size": 8217},
+    {"name": "Displays", "size": 12555},
+    {"name": "Filter", "size": 2324},
+    {"name": "Geometry", "size": 10993},
+    {
+     "name": "heap",
+     "children": [
+      {"name": "FibonacciHeap", "size": 9354},
+      {"name": "HeapNode", "size": 1233}
+     ]
+    },
+    {"name": "IEvaluable", "size": 335},
+    {"name": "IPredicate", "size": 383},
+    {"name": "IValueProxy", "size": 874},
+    {
+     "name": "math",
+     "children": [
+      {"name": "DenseMatrix", "size": 3165},
+      {"name": "IMatrix", "size": 2815},
+      {"name": "SparseMatrix", "size": 3366}
+     ]
+    },
+    {"name": "Maths", "size": 17705},
+    {"name": "Orientation", "size": 1486},
+    {
+     "name": "palette",
+     "children": [
+      {"name": "ColorPalette", "size": 6367},
+      {"name": "Palette", "size": 1229},
+      {"name": "ShapePalette", "size": 2059},
+      {"name": "SizePalette", "size": 2291}
+     ]
+    },
+    {"name": "Property", "size": 5559},
+    {"name": "Shapes", "size": 19118},
+    {"name": "Sort", "size": 6887},
+    {"name": "Stats", "size": 6557},
+    {"name": "Strings", "size": 22026}
+   ]
+  },
+  {
+   "name": "vis",
+   "children": [
+    {
+     "name": "axis",
+     "children": [
+      {"name": "Axes", "size": 1302},
+      {"name": "Axis", "size": 24593},
+      {"name": "AxisGridLine", "size": 652},
+      {"name": "AxisLabel", "size": 636},
+      {"name": "CartesianAxes", "size": 6703}
+     ]
+    },
+    {
+     "name": "controls",
+     "children": [
+      {"name": "AnchorControl", "size": 2138},
+      {"name": "ClickControl", "size": 3824},
+      {"name": "Control", "size": 1353},
+      {"name": "ControlList", "size": 4665},
+      {"name": "DragControl", "size": 2649},
+      {"name": "ExpandControl", "size": 2832},
+      {"name": "HoverControl", "size": 4896},
+      {"name": "IControl", "size": 763},
+      {"name": "PanZoomControl", "size": 5222},
+      {"name": "SelectionControl", "size": 7862},
+      {"name": "TooltipControl", "size": 8435}
+     ]
+    },
+    {
+     "name": "data",
+     "children": [
+      {"name": "Data", "size": 20544},
+      {"name": "DataList", "size": 19788},
+      {"name": "DataSprite", "size": 10349},
+      {"name": "EdgeSprite", "size": 3301},
+      {"name": "NodeSprite", "size": 19382},
+      {
+       "name": "render",
+       "children": [
+        {"name": "ArrowType", "size": 698},
+        {"name": "EdgeRenderer", "size": 5569},
+        {"name": "IRenderer", "size": 353},
+        {"name": "ShapeRenderer", "size": 2247}
+       ]
+      },
+      {"name": "ScaleBinding", "size": 11275},
+      {"name": "Tree", "size": 7147},
+      {"name": "TreeBuilder", "size": 9930}
+     ]
+    },
+    {
+     "name": "events",
+     "children": [
+      {"name": "DataEvent", "size": 2313},
+      {"name": "SelectionEvent", "size": 1880},
+      {"name": "TooltipEvent", "size": 1701},
+      {"name": "VisualizationEvent", "size": 1117}
+     ]
+    },
+    {
+     "name": "legend",
+     "children": [
+      {"name": "Legend", "size": 20859},
+      {"name": "LegendItem", "size": 4614},
+      {"name": "LegendRange", "size": 10530}
+     ]
+    },
+    {
+     "name": "operator",
+     "children": [
+      {
+       "name": "distortion",
+       "children": [
+        {"name": "BifocalDistortion", "size": 4461},
+        {"name": "Distortion", "size": 6314},
+        {"name": "FisheyeDistortion", "size": 3444}
+       ]
+      },
+      {
+       "name": "encoder",
+       "children": [
+        {"name": "ColorEncoder", "size": 3179},
+        {"name": "Encoder", "size": 4060},
+        {"name": "PropertyEncoder", "size": 4138},
+        {"name": "ShapeEncoder", "size": 1690},
+        {"name": "SizeEncoder", "size": 1830}
+       ]
+      },
+      {
+       "name": "filter",
+       "children": [
+        {"name": "FisheyeTreeFilter", "size": 5219},
+        {"name": "GraphDistanceFilter", "size": 3165},
+        {"name": "VisibilityFilter", "size": 3509}
+       ]
+      },
+      {"name": "IOperator", "size": 1286},
+      {
+       "name": "label",
+       "children": [
+        {"name": "Labeler", "size": 9956},
+        {"name": "RadialLabeler", "size": 3899},
+        {"name": "StackedAreaLabeler", "size": 3202}
+       ]
+      },
+      {
+       "name": "layout",
+       "children": [
+        {"name": "AxisLayout", "size": 6725},
+        {"name": "BundledEdgeRouter", "size": 3727},
+        {"name": "CircleLayout", "size": 9317},
+        {"name": "CirclePackingLayout", "size": 12003},
+        {"name": "DendrogramLayout", "size": 4853},
+        {"name": "ForceDirectedLayout", "size": 8411},
+        {"name": "IcicleTreeLayout", "size": 4864},
+        {"name": "IndentedTreeLayout", "size": 3174},
+        {"name": "Layout", "size": 7881},
+        {"name": "NodeLinkTreeLayout", "size": 12870},
+        {"name": "PieLayout", "size": 2728},
+        {"name": "RadialTreeLayout", "size": 12348},
+        {"name": "RandomLayout", "size": 870},
+        {"name": "StackedAreaLayout", "size": 9121},
+        {"name": "TreeMapLayout", "size": 9191}
+       ]
+      },
+      {"name": "Operator", "size": 2490},
+      {"name": "OperatorList", "size": 5248},
+      {"name": "OperatorSequence", "size": 4190},
+      {"name": "OperatorSwitch", "size": 2581},
+      {"name": "SortOperator", "size": 2023}
+     ]
+    },
+    {"name": "Visualization", "size": 16540}
+   ]
+  }
+ ]
+}

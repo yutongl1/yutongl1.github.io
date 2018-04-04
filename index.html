@@ -12,7 +12,31 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		<style> path {stroke: #fff;} </style>
+		<style>
+		.slice {
+		    cursor: pointer;
+		}
+
+		.slice .main-arc {
+		    stroke: #fff;
+		    stroke-width: 1px;
+		}
+
+		.slice .hidden-arc {
+		    fill: none;
+		}
+
+		.slice text {
+		    pointer-events: none;
+		    dominant-baseline: middle;
+		    text-anchor: middle;
+		}
+		.my_text
+		    {
+			font-size: 11px;
+			font-weight: bold;
+		    }			
+	    </style>
 	</head>
 	<body class="landing">
 
@@ -43,58 +67,89 @@
 							<div class="6u 12u$(medium)">
 								<header class="major">
 									<h2>Overview</h2>
-									<p>I keep this line because I like the count</p>
+									<p > Background Information and Research Questions </p>
 								</header>
 							</div>
 							<div class="6u$ 12u$(medium)">
-								<p>The overview of our project</p>
-								<p>Including background information</p>
+								<p>On March 19, 2018, the world's last known male northern white rhinoceros died in Kenya. This makes the species functionally extinct. In fact, the Global extinction crisis far more serious than previously thought - It is estimated that the current extinction rates are 1,000 times higher than natural background rates of extinction. <a href="#footer">[1] </a> </br></p>
+
+								<p>In our project, we will study the endangered animal species. We are interested in looing at which groups of animals have higher risks of endangerment and the population trend.     </p>
 							</div>
 						</div>
 					</div>
 				</section>
 
 			<!-- Two -->
-				<section id="one" class="wrapper style2 special">
+				<section id="two" class="wrapper style2 Special">
 					<div class="container 75%">
+						<header class="major">
+							<h2>Dataset</h2>
+							<p> The IUCN Red List of Threatened Species </p>
+						</header>
 						<div class="row 200%">
 							<div class="6u 12u$(medium)">
-								<header class="major">
-									<h2>Dataset</h2>
-									<p>I keep this line because I like the count</p>
-								</header>
+								<p> The dataset is retrieved from the <a href= 'http://www.iucnredlist.org/search/saved?id=90090'> International Union for Conservation of Nature </a>. The IUCN Red List is widely recognized as the world's most comprehensive inventory of the global conservation status of biological speicis. In our project, we will study three taxonomic groups: birds, mammals, and amphibians. We focus on species categorized as the 5 Red List Status assessed from 2000 to 2017. <a href="#footer">[2]</a>
+								</p>
 							</div>
 							<div class="6u$ 12u$(medium)">
-								<p>Description of Dataset</p>
-								<p>Overview of dataset</p>
+									<ul>
+								  		<li><b> Extinct (EX):  </b>  No known individuals remaining </li>
+								  		<li><b> Extinct in the wild (EW):  </b>  Known only to survive in captivity, or as a naturalized population outside its historic range </li>
+								  		<li><b>Critically Endangered (CR) </b>  Extremely high risk of extinction in the wild</li>
+								  		<li><b> Endangered (EN):  </b>  High risk of extinction in the wild </li>
+								  		<li><b> Vulnerable (VU):  </b>  High risk of endangerment in the wild </li>
+									</ul>
 							</div>
 						</div>
 					</div>
-				</section>		
+					<div style="display: flex; justify-content: center;">
+						
+						<div class="image">
+							<p align = 'center'> Figure 1: Examples from dataset</p>
+							<img src="images/dataset.png" alt="" />
+						</div>
+					</div>
+				</section>					
 
 			<!-- Three -->
-				<section id="two" class="wrapper style1">
+				<section id="three" class="wrapper style1">
 					<div class="container">
 						<header class="major">
 							<h2>Visualization 1</h2>
 							<p> Zoomable Sunburst </p>
 						</header>
-						<div class="row 200%" id = 'svgHere'>							
+						<div class="row 200%">
+							<div class="6u 6u(medium)">						
+								<p> The sunburst shows the taxonomic rank of the aminals: Kingdom, Phylumn, Class, Order, Family and Genus. You can click on any arc to zoom in, click on the center circle to zoom out, or hover over an arc to view the category name and count. </p>	
+								<div class = "my_text" id = 'svgHere'></div>
+							</div>					
+							<div class="6u$ 18u$(medium)">								
+								<h3> Amphibian </h3>
+								<p> 
+								It seems that amphibians are in higher risk of endangerment, possibly because of their sensitbility to environmental changes. Most of the vanishing amphibians are of the Anura order, which includes frogs and toads.  
+								</p>		
+
+								<h3> Aves </h3>
+								<p> 
+								A large portion of birds in risk of extinctions are of order Passeriformes, which is not surprised because naturally Passeriformes includes more than half of all bird species. Among other Orders, the true Parrots - species of colorful flighted birds in Psittacidae Family of Psittaciformes Order - are fast disappearing. </p>	
+								<h3> Mammals </h3>
+								<p>
+								Strikingly, a large variety of our closest relatives — the primates — are endangered, including monkeys [e.g.  Macaca (i.e. Macaque), Ateles (i.e. Spider monkey)], lemurs [e,g. Sportive lemur (i.e. lepilemuridae), Brown lemurs (i.e. eulemur)], and apes [e.g. hylobatidae (i.e. Gibbon)]. In addition to primates, rodent - including several species of Murids, Cricetidae and squirrels (sciuridae) - are severely threatened.  
+								</p>	
+
+							</div>
 						</div>
-						<h3> My descriptions </h3>
-						<h3> Write Here </h3>
-						<h3> Peace and Love Please</h3>						
 					</div>				
 				</section>
 		
 			<!-- Four -->
-				<section id="three" class="wrapper style2 special">
+				<section id="four" class="wrapper style2 special">
 					<div class="container">
 						<header class="major special">
 							<h2>Visulization 2</h2>
-							<p> Trend3 </p>
+							<p> Trend </p>
 						</header>
-						
+					<!-- Chart 1 for VU, Ex, etc. -->	
 					<div class='tableauPlaceholder' id='viz1522713417540' style='position: relative'>
 						<noscript><a href='#'><img alt='Sheet 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;li&#47;lineChart_0&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript>
 						<object class='tableauViz'  style='display:none;'>
@@ -122,8 +177,47 @@
 						vizElement.parentNode.insertBefore(scriptElement, vizElement);               
 					</script>
 						
+					<!-- Chart 2 for stable, decreasing, etc. -->	
+					<div class='tableauPlaceholder' id='viz1522726468100' style='position: relative'>
+						<noscript>
+							<a href='#'>
+							<img alt='Sheet 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ch&#47;chart-mid-ids&#47;Sheet2&#47;1_rss.png' style='border: none' />
+							</a>
+						</noscript>
+						<object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+							<param name='embed_code_version' value='3' /> 
+							<param name='site_root' value='' />
+							<param name='name' value='chart-mid-ids&#47;Sheet2' />
+							<param name='tabs' value='no' />
+							<param name='toolbar' value='yes' />
+							<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ch&#47;chart-mid-ids&#47;Sheet2&#47;1.png' /> 
+							<param name='animate_transition' value='yes' />
+							<param name='display_static_image' value='yes' />
+							<param name='display_spinner' value='yes' />
+							<param name='display_overlay' value='yes' />
+							<param name='display_count' value='yes' />
+							<param name='filter' value='publish=yes' />
+						</object>
+						</div>                
+						<script type='text/javascript'>                    
+							var divElement = document.getElementById('viz1522726468100');                    
+							var vizElement = divElement.getElementsByTagName('object')[0];                    
+							vizElement.style.width='100%';
+							vizElement.style.height=(divElement.offsetWidth*0.45)+'px';                    
+							var scriptElement = document.createElement('script');                    
+							scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+							vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+						</script>	
 					</div>
-					
+				</section>
+
+			<!-- Five -->					
+				<section id="five" class="wrapper style1">
+					<div class="container">
+						<header class="major special">
+							<h2>Mauris vulputate dolor</h2>
+							<p>Feugiat sed lorem ipsum magna</p>
+						</header>
 						<div class="feature-grid">
 							<div class="feature">
 								<div class="image rounded"><img src="images/pic04.jpg" alt="" /></div>
@@ -169,8 +263,9 @@
 					</div>
 				</section>
 
+
 			<!-- Five -->
-				<section id="four" class="wrapper style3 special">
+				<section id="six" class="wrapper style3 special">
 					<div class="container">
 						<header class="major">
 							<h2>Aenean elementum ligula</h2>
@@ -203,67 +298,103 @@
 			<script src="assets/js/skel.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
-			<script src="//d3js.org/d3.v3.min.js"></script>
-			<script>
-
-			var width = 960,
-			    height = 700,
-			    radius = (Math.min(width, height) / 2) - 10;
-
-			var formatNumber = d3.format(",d");
-
-			var x = d3.scale.linear()
-			    .range([0, 2 * Math.PI]);
-
-			var y = d3.scale.sqrt()
-			    .range([0, radius]);
-
-			var color = d3.scale.category20c();
-
-			var partition = d3.layout.partition()
-			    .value(function(d) { return d.size; });
-
-			var arc = d3.svg.arc()
-			    .startAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x))); })
-			    .endAngle(function(d) { return Math.max(0, Math.min(2 * Math.PI, x(d.x + d.dx))); })
-			    .innerRadius(function(d) { return Math.max(0, y(d.y)); })
-			    .outerRadius(function(d) { return Math.max(0, y(d.y + d.dy)); });
-
-			var svg = d3.select("#svgHere").append("svg")
-			    .attr("width", width)
-			    .attr("height", height)
-			  .append("g")
-			    .attr("transform", "translate(" + width / 2 + "," + (height / 2) + ")");
-
-			d3.json("flare.json", function(error, root) {
-			  if (error) throw error;
-
-			  svg.selectAll("path")
-			      .data(partition.nodes(root))
-			    .enter().append("path")
-			      .attr("d", arc)
-			      .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
-			      .on("click", click)
-			    .append("title")
-			      .text(function(d) { return d.name + "\n" + formatNumber(d.value); });
-			});
-
-			function click(d) {
-			  svg.transition()
-			      .duration(750)
-			      .tween("scale", function() {
-				var xd = d3.interpolate(x.domain(), [d.x, d.x + d.dx]),
-				    yd = d3.interpolate(y.domain(), [d.y, 1]),
-				    yr = d3.interpolate(y.range(), [d.y ? 20 : 0, radius]);
-				return function(t) { x.domain(xd(t)); y.domain(yd(t)).range(yr(t)); };
-			      })
-			    .selectAll("path")
-			      .attrTween("d", function(d) { return function() { return arc(d); }; });
-			}
-
-			d3.select(self.frameElement).style("height", height + "px");
-
-			</script>		
-
+			<script src="//d3js.org/d3.v4.min.js"></script>
+			<script src="colorbrewer.js"></script>
+			    <script>
+				const width = 600,
+				    height = 600,
+				    maxRadius = (Math.min(width, height) / 2) - 10;
+				const formatNumber = d3.format(',d');
+				const x = d3.scaleLinear()
+				    .range([0, 2 * Math.PI])
+				    .clamp(true);
+				const y = d3.scaleSqrt()
+				    .range([maxRadius*.1, maxRadius]);
+				const color = d3.scaleOrdinal(colorbrewer.Set3[12]);
+				const partition = d3.partition();
+				const arc = d3.arc()
+				    .startAngle(d => Math.max(0, Math.min(2 * Math.PI, x(d.x0))))
+				    .endAngle(d => Math.max(0, Math.min(2 * Math.PI, x(d.x1))))
+				    .innerRadius(d => Math.max(0, y(d.y0)))
+				    .outerRadius(d => Math.max(0, y(d.y1)));
+				const middleArcLine = d => {
+				    const halfPi = Math.PI/2;
+				    const angles = [x(d.x0) - halfPi, x(d.x1) - halfPi];
+				    const r = Math.max(0, (y(d.y0) + y(d.y1)) / 2);
+				    const middleAngle = (angles[1] + angles[0]) / 2;
+				    const invertDirection = middleAngle > 0 && middleAngle < Math.PI; // On lower quadrants write text ccw
+				    if (invertDirection) { angles.reverse(); }
+				    const path = d3.path();
+				    path.arc(0, 0, r, angles[0], angles[1], invertDirection);
+				    return path.toString();
+				};
+				const textFits = d => {
+				    const CHAR_SPACE = 6;
+				    const deltaAngle = x(d.x1) - x(d.x0);
+				    const r = Math.max(0, (y(d.y0) + y(d.y1)) / 2);
+				    const perimeter = r * deltaAngle;
+				    return d.data.name.length * CHAR_SPACE < perimeter;
+				};
+				const svg = d3.select("#svgHere").append('svg')
+				    .style('width', width)
+				    .style('height', height)
+				    .attr('viewBox', `${-width / 2} ${-height / 2} ${width} ${height}`)
+				    .on('click', () => focusOn()); // Reset zoom on canvas click
+				d3.json('flare.json', (error, root) => {
+				    if (error) throw error;
+				    root = d3.hierarchy(root);
+				    root.sum(d => d.size);
+				    const slice = svg.selectAll('g.slice')
+					.data(partition(root).descendants());
+				    slice.exit().remove();
+				    const newSlice = slice.enter()
+					.append('g').attr('class', 'slice')
+					.on('click', d => {
+					    d3.event.stopPropagation();
+					    focusOn(d);
+					});
+				    newSlice.append('title')
+					.text(d => d.data.name + '\n' + formatNumber(d.value));
+				    newSlice.append('path')
+					.attr('class', 'main-arc')
+					.style('fill', d => color((d.children ? d : d.parent).data.name))
+					.attr('d', arc);
+				    newSlice.append('path')
+					.attr('class', 'hidden-arc')
+					.attr('id', (_, i) => `hiddenArc${i}`)
+					.attr('d', middleArcLine);
+				    const text = newSlice.append('text')
+					.attr('display', d => textFits(d) ? null : 'none');
+				    text.append('textPath')
+					.attr('startOffset','50%')
+					.attr('xlink:href', (_, i) => `#hiddenArc${i}` )
+					.text(d => d.data.name);
+				});
+				function focusOn(d = { x0: 0, x1: 1, y0: 0, y1: 1 }) {
+				    // Reset to top-level if no data point specified
+				    const transition = svg.transition()
+					.duration(750)
+					.tween('scale', () => {
+					    const xd = d3.interpolate(x.domain(), [d.x0, d.x1]),
+						yd = d3.interpolate(y.domain(), [d.y0, 1]);
+					    return t => { x.domain(xd(t)); y.domain(yd(t)); };
+					});
+				    transition.selectAll('path.main-arc')
+					.attrTween('d', d => () => arc(d));
+				    transition.selectAll('path.hidden-arc')
+					.attrTween('d', d => () => middleArcLine(d));
+				    transition.selectAll('text')
+					.attrTween('display', d => () => textFits(d) ? null : 'none');
+				    moveStackToFront(d);
+				    //
+				    function moveStackToFront(elD) {
+					svg.selectAll('.slice').filter(d => d === elD)
+					    .each(function(d) {
+						this.parentNode.appendChild(this);
+						if (d.parent) { moveStackToFront(d.parent); }
+					    })
+				    }
+				}
+			    </script>
 	</body>
 </html>

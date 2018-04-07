@@ -10,21 +10,54 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		<style>
+		.slice {
+		    cursor: pointer;
+		}
+
+		.slice .main-arc {
+		    stroke: #fff;
+		    stroke-width: 1px;
+		}
+
+		.slice .hidden-arc {
+		    fill: none;
+		}
+
+		.slice text {
+		    pointer-events: none;
+		    dominant-baseline: middle;
+		    text-anchor: middle;
+		}
+		.my_text
+		    {
+			font-size: 11px;
+			font-weight: bold;
+		    }			
+	    </style>
 	</head>
-	<body>
+	<body class="landing">
 
 		<!-- Header -->
-			<header id="header">
+			<header id="header" class="alt">
 				<nav id="nav">
 					<ul>
 						<li><a href="index.html">Home</a></li>
-						<li><a href="generic.html">DATA QUALITY</a></li>
-						<li><a href="elements.html">USER FEEDBACk</a></li>
+						<li><a href="generic.html">Data Quality</a></li>
+						<li><a href="elements.html">User Feedback</a></li>
 					</ul>
 				</nav>
 			</header>
+
 			<a href="#menu" class="navPanelToggle"><span class="fa fa-bars"></span></a>
 
+		<!-- Banner -->
+			<section id="banner">
+				<h2 >Endangered Animals</h2>
+				<p> A study of endangered aminal groups and population trend  <br /> </p>
+
+
+			</section>
 		<!-- Main -->
 			<section id="main" class="wrapper">
 				<div class="container">
@@ -38,7 +71,7 @@
 							</br>
 							</br>The first prototype
 							</br>1. The topic is for social good, which is great.
-							</br> 2. The charts are not interactive enough.
+							</br> 2. The charts are not interactive enough. And the information in the Zoomable Sunburst are too detailed, which can be distracting.
 							</br> 3. Some buttons do not work.
 							</br>
 							</br>
@@ -68,8 +101,17 @@
 							<p>
 							- A website will never be too interactive.
 						</br> - User tests help a lot during development.
+					</br> - More information does not mean more informative.
 							</p>
 							<h4>Final Results</h4>
+							<div class="box alt">
+								<div class="row 50% uniform">
+									<div class="4u"><span class="image fit"><img src="images/sun1.jpg" alt="" /></span></div>
+									<div class="4u"><span class="image fit"><img src="images/sun2.jpg" alt="" /></span></div>
+									<div class="4u$"><span class="image fit"><img src="images/sun3.jpg" alt="" /></span></div>
+								</div>
+							</div>
+							<p>Our first user said the Sunburst figure has too many layers, which actually district people. Then we changed our Sunburst figure into the second one, which excludes the species layer, and got good feedback from the second user. Thus, we tried the third one, which only includes kingdom, phylum, class, order, and family. But it is not informative enough. Thus, we chose the second one finally.</p>
 							<p>
  							A more informative, interactive, beautiful and user-friendly <a href="https://yutongl1.github.io">website</a>.
 							</p>
